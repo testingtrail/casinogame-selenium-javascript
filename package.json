@@ -1,0 +1,20 @@
+{
+  "description": "",
+  "dependencies": {
+    "chai": "4.1.1",
+    "mocha": "^10.6.0",
+    "selenium-webdriver": "^4.22.0"
+  },
+  "scripts": {
+    "test": "mocha -r ts-node/register tests/**/*2.ts"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.16",
+    "@types/debug": "^4.1.12",
+    "@types/mocha": "^10.0.7",
+    "@types/node": "^20.14.10",
+    "@types/selenium-webdriver": "^4.1.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}

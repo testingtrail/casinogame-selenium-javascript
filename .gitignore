@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Selenium & WebDriver related files
+*.log
+geckodriver.log
+chromedriver.log

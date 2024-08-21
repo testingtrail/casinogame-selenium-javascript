@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "allowSyntheticDefaultImports": true
+    },
+    "include": ["./**/*.ts", "pages/BasePage.ts", "pages/GamePage.ts",],
+    "exclude": ["node_modules"]
+}
