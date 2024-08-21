@@ -1,6 +1,7 @@
-# Selenium Booking Test
+# Selenium Casino Test
 
 This project demonstrates a basic Selenium framework to test casino spin games
+
 Author: TestingTrail. 2024.
 
 ## Project Structure
